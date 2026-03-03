@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
+<h1 align="center"> Muhammad Uzair</h1>
 <h3 align="center">Front-End Developer | HTML | Tailwind CSS | JavaScript | Responsive UI</h3>
 
 <p align="center">
