@@ -33,25 +33,9 @@ I build user-friendly and visually appealing interfaces using **HTML, Tailwind C
 
 ## 💼 Professional Experience
 
-🔹 Data Entry Specialist — Axis Coding Solutions  
+🔹 Front-End Developer  
 🔹 Experience across Xytech & other companies  
 🔹 Social Media Marketing  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzairirfandev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairirfandev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairirfandev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
