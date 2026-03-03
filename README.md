@@ -1,9 +1,12 @@
-<h1 align="center"> Muhammad Uzair</h1>
-<h3 align="center">Front-End Developer | HTML | Tailwind CSS | JavaScript | Responsive UI</h3>
+<h1 align="center">Muhammad Uzair</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML+%7C+Tailwind+CSS+%7C+JavaScript;Responsive+UI+Specialist;Building+Modern+Web+Experiences" />
+</p>
 
 <p align="center">
   <a href="https://uzair-irfan-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
@@ -11,39 +14,43 @@
 
 ## 🚀 About Me
 
-I am a passionate Front-End Developer with hands-on experience in building clean, responsive, and user-friendly web interfaces using HTML, Tailwind CSS, and JavaScript.  
+✨ Passionate Front-End Developer  
+💻 Specialized in clean & responsive UI  
+📱 Mobile-first & cross-device friendly design  
+🎯 Focused on modern web experiences  
 
-I focus on creating modern UI designs that work smoothly across all devices and provide the best user experience.
+I build user-friendly and visually appealing interfaces using **HTML, Tailwind CSS, and JavaScript**.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,github,vscode" />
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-- Data Entry Specialist at **Axis Coding Solutions**
-- Professional Experience across **Xytech** and other companies
-- Social Media Marketing Experience
+🔹 Data Entry Specialist — Axis Coding Solutions  
+🔹 Experience across Xytech & other companies  
+🔹 Social Media Marketing  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzairirfandev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzairirfandev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairirfandev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairirfandev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairirfandev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,4 +58,4 @@ I focus on creating modern UI designs that work smoothly across all devices and 
 ## 🤝 Let's Connect
 
 🌐 Portfolio: https://uzair-irfan-portfolio.netlify.app/  
-💼 Open for Front-End Projects & Collaboration 🚀
+🚀 Open for Front-End Projects & Collaboration  
